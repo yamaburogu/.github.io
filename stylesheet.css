@@ -1,0 +1,88 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+li {
+  list-style: none;
+}
+
+img {
+  width: 400px;
+  height: 400px;
+}
+
+p {
+  font-size: 36px;
+}
+
+.header {
+  background-color: black;
+  height: 90px;
+  color: antiquewhite;
+}
+
+.header-logo {
+  font-size: 36px;
+  float: left;
+  padding: 20px 40px;
+}
+
+.header-list li {
+  float: left;
+  padding: 33px 20px;
+}
+
+.main {
+  padding: 100px 80px;
+}
+
+.copy-container h1 {
+  font-size: 70px;
+}
+
+.copy-container h2 {
+  font-size: 60px;
+}
+
+.copy-container span {
+  color: crimson;
+}
+
+.contents {
+  height: 500px;
+}
+
+.section-title {
+  border-bottom: 2px solid black;
+  font-size: 36px;
+}
+
+.contents-item {
+  float: left;
+  margin-right: 40px;
+}
+
+.contact-form {
+  margin-top: 150px;
+}
+
+.footer {
+  background-color: black;
+  height: 220px;
+  color: antiquewhite;
+  padding: 40px;
+}
+
+.footer-logo {
+  font-size: 32px;
+  float: left;
+}
+
+.footer-list {
+  float: right;
+}
+
+.footer-list li {
+  padding-bottom: 20px;
+}
+
